@@ -2,12 +2,11 @@
 
 Este repositorio contiene una presentación interactiva sobre GitFlow, creada con Slidev, que explica el flujo de trabajo GitFlow de manera clara y visual.
 
-## 🎯 Contenido de la Presentación v1.0.0
+## 🎯 Contenido de la Presentación
 
 - Introducción a GitFlow
 - Por qué usar GitFlow y para quién está dirigido
 - Estructura y flujo de las ramas
-- Comandos básicos de GitFlow
 - Diagrama detallado del flujo de trabajo
 - Pros, contras y alternativas
 - Conclusiones y recursos adicionales
@@ -15,7 +14,7 @@ Este repositorio contiene una presentación interactiva sobre GitFlow, creada co
 ## 🛠 Tecnologías Utilizadas
 
 - [Slidev](https://sli.dev/) - Framework para presentaciones
-- Vue.js 3.x
+- Vue.js
 - UnoCSS
 - Mermaid para diagramas
 
@@ -23,17 +22,10 @@ Este repositorio contiene una presentación interactiva sobre GitFlow, creada co
 
 - Node.js >= 14.0.0
 - npm o yarn
-- Git >= 2.25.0
 
 ## 🚀 Instalación
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/tonomolla6/gitflow-guide.git
-
-# Entrar al directorio
-cd gitflow-guide
-
 # Instalar dependencias
 npm install
 
@@ -70,11 +62,3 @@ MIT
 ## 👥 Autor
 
 [Tu Nombre]
-
-## 📅 Changelog
-
-### v1.0.0
-- Presentación inicial completa
-- Diagramas de flujo de trabajo
-- Sección de comandos básicos
-- Ejemplos prácticos

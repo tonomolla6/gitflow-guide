@@ -93,48 +93,6 @@ layout: two-cols
 </div>
 
 ---
-layout: two-cols
----
-
-# Comandos Básicos GitFlow
-
-<div class="mt-4">
-<div class="mb-4">
-  <h3 class="text-green-500">🚀 Iniciar Feature</h3>
-  <pre class="text-sm bg-gray-100 p-2 rounded">git flow feature start mi-feature</pre>
-</div>
-
-<div class="mb-4">
-  <h3 class="text-yellow-500">📦 Iniciar Release</h3>
-  <pre class="text-sm bg-gray-100 p-2 rounded">git flow release start 1.0.0</pre>
-</div>
-
-<div class="mb-4">
-  <h3 class="text-red-500">🔧 Iniciar Hotfix</h3>
-  <pre class="text-sm bg-gray-100 p-2 rounded">git flow hotfix start bug-fix</pre>
-</div>
-</div>
-
-::right::
-
-<div class="pl-4">
-<div class="mb-4">
-  <h3 class="text-green-500">✅ Finalizar Feature</h3>
-  <pre class="text-sm bg-gray-100 p-2 rounded">git flow feature finish mi-feature</pre>
-</div>
-
-<div class="mb-4">
-  <h3 class="text-yellow-500">✨ Finalizar Release</h3>
-  <pre class="text-sm bg-gray-100 p-2 rounded">git flow release finish 1.0.0</pre>
-</div>
-
-<div class="mb-4">
-  <h3 class="text-red-500">🎯 Finalizar Hotfix</h3>
-  <pre class="text-sm bg-gray-100 p-2 rounded">git flow hotfix finish bug-fix</pre>
-</div>
-</div>
-
----
 layout: center
 ---
 
